@@ -67,7 +67,7 @@ Si no aparece la sección de la terminal presiona control-ñ.
 
 ![Descripción de la imagen](../Imagenes/Img21.png)
 
-Para entregar tu ejercicio, debes previamente hacer el push a tu rama en tu repositorio.
+**Para entregar tu ejercicio, debes previamente hacer el push a tu rama en tu repositorio.**
 
 
 Una vez que tu solución esté en tu rama, deberás comparar tu rama local y la rama del fork, basta con agregar la palabra compare al link de tu repositorio como la siguiente imagen.
