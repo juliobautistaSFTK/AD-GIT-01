@@ -7,25 +7,23 @@
 
 
 
-# **Ejercicio INTEGRACIÓN CONTINUA CON LIQUIBASE**
+# **Ejercicio GIT TAGS, GIT BRANCH Y MERGE, GIT ESTRATEGIA DE BRANCH **
 
-Prerrequisito: Haber tomado el taller de Integración continua de base de datos con liquibase, dado que ahí se generaran los ambientes y xml entre desarrollo y pruebas.
+Prerrequisito: Conocimiento básico en desarrollo de software.
 
 # **Objetivos:**
-1.- Crear una nueva tabla en el ambiente de desarrollo utilizando xml y liquibase, la tabla se debe llamar distancia, con 2 campos id de tipo entero y descripción de tipo caracter de 100.
+1.- Crear historia de commits.
 
-2.- Migrar esta nueva tabla al ambiente de pruebas utilizando liquibase y XML.
+2.- Crear tags para referencia. 
 
-3.- Crear un nuevo contenedor para mysql versión 8 que servirá como producción modificando el docker-compose y levantándolo de nuevo.
+3.- Creación de branch Develop y merge.
 
-4.- Migrar todos los cambios que existenen pruebas hacia producción por medio de liquibase y XML.
-
-5.- Hacer commit de todos los archivos modificados o generados, así como un screenshot de la base de datos de producción con los cambios implementados.
+4.- Crear la estrategia de branch para desarrollo, requerimientos y defectos.
 
 # **Cómo evaluar:**
-Se evaluará cada xml y archivos de ambientación creados tenendo un valor del 70% de la calificación.
+Se evaluarán los tags, logs y branch creados para el ejercicio, son 3 temas y cada uno contará con la tercera parte de la calificación.
 
-El screenshot de la base de datos de producción con los cambios de pruebas tendrá un valor del 30% de la calificación
+Entregar en github con base a las instrucciones.
 
 # Evitar el plagio
 Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica desleal y se levantará un Warning.
