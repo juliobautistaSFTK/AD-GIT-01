@@ -7,7 +7,7 @@
 
 
 
-# **Ejercicio GIT TAGS, GIT BRANCH Y MERGE, GIT ESTRATEGIA DE BRANCH **
+# Ejercicio GIT TAGS, GIT BRANCH Y MERGE, GIT ESTRATEGIA DE BRANCH 
 
 Prerrequisito: Conocimiento básico en desarrollo de software.
 
