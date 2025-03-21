@@ -21,7 +21,9 @@ Prerrequisito: Conocimiento básico en desarrollo de software.
 4.- Crear la estrategia de branch para desarrollo, requerimientos y defectos.
 
 # **Cómo evaluar:**
-Se evaluarán los tags, logs y branch creados para el ejercicio, son 3 temas y cada uno contará con la tercera parte de la calificación.
+Se evaluarán los tags, logs y branch creados para el ejercicio, son 3 temas y cada uno contará 25% del valor sumando el 75%.
+La participacion tiene un valor del 25%
+
 
 Entregar en github con base a las instrucciones.
 
